@@ -20,7 +20,7 @@ Bernoulli Naive Bayes achieves a slightly lower score of: **0.754008119452281**
 
 <div style="text-align: center;">
 
-![Multinomial Bayes confusion matrix](./assets/MNB_Matrix.png)
+![Multinomial Bayes confusion matrix](https://user-images.githubusercontent.com/3877198/221141109-b1731a4e-f830-46df-8621-91e2b3d8b785.png)
 
 </div>
 
